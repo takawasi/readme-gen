@@ -56,6 +56,10 @@ Based on analysis of 100+ successful Show HN posts:
 - **Quick Start**: Exactly 3 steps
 - **No wall of text**
 
+## More Tools
+
+See all dev tools: https://takawasi-social.com/en/
+
 ## License
 
 MIT
