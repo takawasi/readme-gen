@@ -1,5 +1,7 @@
 # readme-gen
 
+> **Documentation**: https://takawasi-social.com/tools/readme-gen/
+
 Generate HN-optimized README in 60 seconds.
 
 Stop staring at blank README.md files. Let AI write it based on your actual code.
